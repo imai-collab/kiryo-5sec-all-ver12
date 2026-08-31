@@ -1,34 +1,7 @@
 [
   {
-    "id": "1788139670028",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰①TEST (2026/8/31)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①TEST",
-    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01",
-    "problems": [
-      {
-        "id": 1,
-        "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/8k/9/7L1/6N2/9/9/9/9 b 2r2b4g4s3n2l18p 1"
-      },
-      {
-        "id": 2,
-        "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8s/8k/6G2/7L1/9/9/9/9/9 b 2r2b3g3s4n3l18p 1"
-      },
-      {
-        "id": 50,
-        "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6r1l/8k/6R2/9/9/9/9/9/9 b G2b3g4s4n3l18p 1"
-      }
-    ],
-    "timestamp": 1788139670038
-  },
-  {
-    "id": "1781955760697",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰① (2026/6/20)",
+    "id": "1788140458123",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰① (2026/8/31)",
     "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01",
     "problems": [
@@ -333,12 +306,13 @@
         "initialSfen": "6r1l/8k/6R2/9/9/9/9/9/9 b G2b3g4s4n3l18p 1"
       }
     ],
-    "timestamp": 1781955760697
+    "timestamp": 1788140458123
   },
   {
-    "id": "1779558483551",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰② (2026/5/24)",
+    "id": "1788140444993",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰② (2026/8/31)",
     "appTitle": "©kiryoアプリ　５秒で解きたい３手詰②",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=02",
     "problems": [
       {
         "id": 1,
@@ -641,12 +615,13 @@
         "initialSfen": "8l/6Bgk/6n1p/4B4/9/9/9/9/9 b S2r3g3s3n3l17p 1"
       }
     ],
-    "timestamp": 1779558483551
+    "timestamp": 1788140444993
   },
   {
-    "id": "1779558474020",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰③ (2026/5/24)",
+    "id": "1788140421151",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰③ (2026/8/31)",
     "appTitle": "©kiryoアプリ　５秒で解きたい３手詰③",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=03",
     "problems": [
       {
         "id": 1,
@@ -949,12 +924,13 @@
         "initialSfen": "5r2l/6S1k/7R1/7P1/9/9/9/9/9 b 2b4g3s4n3l17p 1"
       }
     ],
-    "timestamp": 1779558474020
+    "timestamp": 1788140421151
   },
   {
-    "id": "1779554876149",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰④ (2026/5/24)",
+    "id": "1788140392131",
+    "title": "©kiryoアプリ　５秒で解きたい３手詰④ (2026/8/31)",
     "appTitle": "©kiryoアプリ　５秒で解きたい３手詰④",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=04",
     "problems": [
       {
         "id": 1,
@@ -1257,6 +1233,6 @@
         "initialSfen": "5g1nl/6sk1/6ppp/5B3/9/9/9/9/9 b GN2rb2g3s2n3l15p 1"
       }
     ],
-    "timestamp": 1779554876149
+    "timestamp": 1788140392131
   }
 ]
