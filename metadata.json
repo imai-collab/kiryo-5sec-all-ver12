@@ -1,0 +1,8 @@
+{
+  "name": "Remix 5秒で解きたい3手詰　クリア登録版",
+  "description": "終盤練習ができるアプリです。あなたの指し手に対して自動で応手します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
